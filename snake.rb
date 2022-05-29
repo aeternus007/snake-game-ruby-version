@@ -98,7 +98,6 @@ player, apple = setup(GRID, APPLE)
 paused = false
 
 on :key_down do |event|
-    puts event.key
     case event.key
     when "down", "s"
         unless player.direction == "up"
