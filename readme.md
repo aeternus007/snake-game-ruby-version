@@ -1,3 +1,5 @@
+## preview ##
+![preview snake game](preview.png "snake game")
 
 ## software ##
 tested with ruby 3.0.0 and used latest version of ruby2d
