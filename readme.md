@@ -1,4 +1,4 @@
-# Snake Game By Ray Libbenga #
+# Snake Game By Ray Libbenga (AKA aeternus(007)) #
 - [Preview](#preview)
 - [Installation](#installation)
 - [Running The Game](#running-the-game)
