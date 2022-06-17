@@ -7,35 +7,35 @@
 ---
 
 ## Preview ##
-[back to the start](#snake-game-by-ray-libbenga)
+[back to the start](#snake-game-by-ray-libbenga-aka-aeternus007)
 
 ![preview snake game](preview.png "Snake Game")
 
 ## Installation ##
-[back to the start](#snake-game-by-ray-libbenga)
+[back to the start](#snake-game-by-ray-libbenga-aka-aeternus007)
 
 To run this game you have to install Ruby and the ruby2d gem.
 You can [download Ruby](https://www.ruby-lang.org/en/downloads/) here and you can find installing instructions [here](https://www.ruby2d.com/learn/get-started/)
 
 ## Running The Game ##
-[back to the start](#snake-game-by-ray-libbenga)
+[back to the start](#snake-game-by-ray-libbenga-aka-aeternus007)
 
 To run the game you have to be in the folder where snake.rb is. then run in the command ```ruby snake.rb```
 
 ## Controls ##
-[back to the start](#snake-game-by-ray-libbenga)
+[back to the start](#snake-game-by-ray-libbenga-aka-aeternus007)
 
 Wasd ans arrow keys to control the snake.
 Space to pause the game.
 Enter (return) for starting over when you see the game-over screen.
 
 ## Project Description And Explanation ##
-[back to the start](#snake-game-by-ray-libbenga)
+[back to the start](#snake-game-by-ray-libbenga-aka-aeternus007)
 
 So I made this snake game, because I wanted to learn a new language (Ruby) and I wanted to dig deeper into game development. The reason why i chose to program Snake was because a friend responded with "Snake" when I asked what I should program. First I reacted quite sceptic, because I only knew Ruby for 2 days by then, altho I was intriged by this idea. So there i was, three days later, with a fully finished Snake game ✨. Now I finished it I'll explain the code!!
 
 ### Setting Up The Game ###
-- [back to the start](#snake-game-by-ray-libbenga)
+- [back to the start](#snake-game-by-ray-libbenga-aka-aeternus007)
 - [Window](#window)
 - [Constants](#constants)
 - [The Snake](#the-snake)
@@ -248,4 +248,4 @@ The update code clears the screen, and checks if the player is alive. When the p
 __and that was it for the code!!__
 
 - [back to "Setting Up The Game"](#setting-up-the-game)
-- [back to the start](#snake-game-by-ray-libbenga)
+- [back to the start](#snake-game-by-ray-libbenga-aka-aeternus007)
